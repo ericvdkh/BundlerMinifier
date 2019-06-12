@@ -3,6 +3,8 @@
 A Visual Studio extension that let's you configure bundling and
 minification of JS, CSS and HTML files.
 
+Adapted by ericvdkh to support .debug.js files for SharePoint development
+
 [![Build status](https://ci.appveyor.com/api/projects/status/ktn1qy982qsprwb5?svg=true)](https://ci.appveyor.com/project/madskristensen/bundlerminifier)
 [![NuGet](https://img.shields.io/nuget/v/BuildBundlerMinifier.svg?style=flat)](https://www.nuget.org/packages/BuildBundlerMinifier/) 
 
